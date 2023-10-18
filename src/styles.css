@@ -65,9 +65,10 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-color: #fff;
+    background: linear-gradient(#7a7a7a,#c4c3c3);
     width: 500px;
     border-radius: 8px;
+  
 
 }
 .main h2{
@@ -78,6 +79,7 @@
 .main span{
     margin-bottom: 16px;
     font-weight: bold;
+    font-size: 18px;
 }
 
 @media (max-width: 730px){
